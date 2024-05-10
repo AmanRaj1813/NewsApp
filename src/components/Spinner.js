@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import loading from './loading.gif'
-import PropTypes from 'prop-types'
+
 
 const Spinner = ()=>{
   return (
